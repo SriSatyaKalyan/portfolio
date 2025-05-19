@@ -57,24 +57,24 @@ export function AboutSection() {
               </h3>
               <div className="mb-6">
                 <h4 className="font-medium">
-                  Master of Science in Computer Science
+                  Master's in Computer Engineering
                 </h4>
                 <p className="text-slate-600">
-                  University of Louisiana at Lafayette
+                  Colorado State University, Fort Collins
                 </p>
               </div>
               <div className="mb-6">
                 <h4 className="font-medium">
-                  Bachelor of Technology in Computer Science
+                  Bachelor's in Electrical Engineering
                 </h4>
-                <p className="text-slate-600">Graduation University</p>
+                <p className="text-slate-600">Andhra University</p>
               </div>
-              <div>
+              {/* <div>
                 <h4 className="font-medium">Professional Certifications</h4>
                 <p className="text-slate-600">
                   Test Automation & Quality Assurance
                 </p>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

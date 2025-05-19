@@ -28,14 +28,14 @@ export function HeroSection() {
             <a href="https://www.linkedin.com/in/kalyan-kallepalli/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:text-blue-200 transition-colors">
               <LinkedinIcon size={24} />
             </a>
-            <a href="mailto:alex@example.com" aria-label="Email" className="hover:text-blue-200 transition-colors">
+            <a href="mailto:satyakalyan5@gmail.com" aria-label="Email" className="hover:text-blue-200 transition-colors">
               <MailIcon size={24} />
             </a>
           </div>
         </div>
         <div className="md:w-1/2 flex justify-center">
           <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-white/10 border-4 border-white/20 flex items-center justify-center">
-            <img src="/0D501AB6-E773-46BB-A636-DA58CE5E225B_1_101_o.jpg" alt="Alex Chen" className="w-60 h-60 md:w-72 md:h-72 rounded-full object-cover" />
+            <img src="/0D501AB6-E773-46BB-A636-DA58CE5E225B_1_101_o.jpg" alt="Kalyan Kallepalli" className="w-60 h-60 md:w-72 md:h-72 rounded-full object-cover" />
           </div>
         </div>
       </div>
