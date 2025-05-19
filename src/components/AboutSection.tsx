@@ -7,16 +7,14 @@ export function AboutSection() {
         <div className="flex flex-col md:flex-row gap-12 items-center">
           <div className="md:w-1/2">
             <p className="text-lg mb-6">
-              Hello! I'm Kalyan Kallepalli, a Software Development Engineer in Test with
-              a passion for building robust test automation frameworks and
-              ensuring software quality.
+              Hello! I'm Kalyan, an engineer with
+              a passion for building robust test automation frameworks, dipping my toes into anything new in the software space and
+              volleyball.
             </p>
             <p className="text-lg mb-6">
-              Currently working at Federal Reserve Bank of Kansas City, I specialize in
+              I am currently working at Federal Reserve Bank of Kansas City, I specialize in
               developing automated testing solutions using Selenium, Cypress, Java, Python and
-              various CI/CD tools. I'm dedicated to improving software quality
-              through strategic test automation and comprehensive quality
-              assurance processes.
+              various CI/CD tools. Feel free to checkout my projects to see some of the work I've done.
             </p>
             {/* <p className="text-lg">
               I hold a Master's degree in Computer Science from the University

@@ -9,7 +9,7 @@ export function HeroSection() {
           </h1>
           <h2 className="text-2xl md:text-3xl mb-6">Software Test Engineer</h2>
           <p className="text-lg mb-8 max-w-lg">
-            Test Automation Engineer with expertise in Selenium, Appium, and
+            Software Automation Engineer with expertise in Selenium, Cypress, and
             CI/CD integration. Passionate about building robust test frameworks
             and ensuring software quality.
           </p>
@@ -35,7 +35,7 @@ export function HeroSection() {
         </div>
         <div className="md:w-1/2 flex justify-center">
           <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-white/10 border-4 border-white/20 flex items-center justify-center">
-            <img src="/0D501AB6-E773-46BB-A636-DA58CE5E225B_1_101_o.jpg" alt="Kalyan Kallepalli" className="w-60 h-60 md:w-72 md:h-72 rounded-full object-cover" />
+            <img src="https://www.scriptrevolution.com/system/files/pictures/picture-19609-1637306169.jpg" alt="Kalyan Kallepalli" className="w-60 h-60 md:w-72 md:h-72 rounded-full object-cover" />
           </div>
         </div>
       </div>
